@@ -1,0 +1,28 @@
+/* *{
+    background-color: blueviolet;
+} */
+ .hello{
+    background-color :blue;
+ }
+.cartes{
+  display: flex;
+  justify-content: space-around;
+  margin:5%;
+}
+.btns{
+  display: flex;
+justify-content:space-between   ;;
+}
+.img{
+  height: 50% !important;
+}
+.navbar-brand{
+   color: red !important;
+}
+.username{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+    color: gray;
+}
